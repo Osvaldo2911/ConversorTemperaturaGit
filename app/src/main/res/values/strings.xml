@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ConversorTemperatura</string>
+
+    <string name="lbTitulo">CONVERSOR DE TEMPERATURAS</string>
+    <string name="lbConvertir">Convertir:</string>
+    <string name="lbConvertirA">A:</string>
+    <string name="etTemperaturaEntrada"></string>
+    <string name="etTemperaturaSalida"></string>
+
+    <string-array name="TemEn">
+        <item>Centigrados</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+    </string-array>
+
+    <string-array name="TemSa">
+        <item>Centigrados</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+    </string-array>
+
+
+</resources>
